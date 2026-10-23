@@ -1,0 +1,21 @@
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Backups / editor files
+*.bak
+*.orig
+*.tmp
+*~
+.vscode/
+.idea/
+*.iml
+
+# Release archives (upload these under GitHub "Releases" instead)
+*.zip
+release/
+
+# Never commit SavedVariables / account data
+WTF/
+SavedVariables/
