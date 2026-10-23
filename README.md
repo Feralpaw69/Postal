@@ -6,6 +6,11 @@
 
 This repository contains version 3.4.0 with small adjustments for the Frostmourne Rebuffed client (version bumped to 3.4.1).
 
+## Features
+- Open All collects mail up to twice as fast.
+
+![Postal mailbox with Open All](showcase/postal-inbox.png)
+
 ## Installation
 Copy the `Postal` folder into `World of Warcraft/Interface/AddOns/`, then `/reload`.
 
